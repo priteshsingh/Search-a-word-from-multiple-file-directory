@@ -1,0 +1,3 @@
+2019-11-26 12:06:15,320 ERROR c.m.s.SearchServiceImpl [main] logger Error
+2019-11-26 12:06:15,323 INFO c.m.s.SearchServiceImpl [main] logger info
+2019-11-26 12:06:15,323 FATAL c.m.s.SearchServiceImpl [main] fatal h
